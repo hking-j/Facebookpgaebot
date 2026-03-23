@@ -13,7 +13,7 @@ const path = require('path');
 const config = {
     port: process.env.PORT || 5000,
     pageAccessToken: process.env.PAGE_ACCESS_TOKEN || 'EAAK832mcZBQgBRAeszfdi4DpmGZBNXInujYZBjaNEkZAjZCswjd4s5z9w88dtXORiFKg0XMH0Fiy347pJW046LZBL8VaLxCM99Bk3187ijls9sm9bmPp3pNFLLupZAm0n8UUc8Gm8EqdIY1rRQgZA1z3pgCufZBZCgdNDRpHi6ZCR99FHAtsDnsrDRmjbiaZCTtuwBauU0AKegZDZD',
-    verifyToken: process.env.VERIFY_TOKEN || 'kaiz_bot_verify_token',
+    verifyToken: process.env.VERIFY_TOKEN || '27982877',
     apiKey: 'b25bd41d-a96c-4df0-aab1-536acd594eb7',
     apiBase: 'https://kaiz-apis.gleeze.com/api'
 };

@@ -12,7 +12,7 @@ const path = require('path');
 // Bot configuration
 const config = {
     port: process.env.PORT || 5000,
-    pageAccessToken: process.env.PAGE_ACCESS_TOKEN || 'EAAQ1WsOAhD0BQ2ZAZA4If1Y3m22LYuoHU1v7bAxjpvJpnNNtqdgHGl7bs8hYVgocgjPQN6Oo6mIDc0cfJnZBoBv3XmOWg9S24diwsHSIotIEgTfwtU1qrfpnhJZAht5aKCa26H1h6KHdBHz0YKxUdfcgXWlEtZColeZBvUxTDXXxQmYxgiN5nnrckMX4xTG82OjLd3OAZDZD',
+    pageAccessToken: process.env.PAGE_ACCESS_TOKEN || 'EAAK832mcZBQgBRAeszfdi4DpmGZBNXInujYZBjaNEkZAjZCswjd4s5z9w88dtXORiFKg0XMH0Fiy347pJW046LZBL8VaLxCM99Bk3187ijls9sm9bmPp3pNFLLupZAm0n8UUc8Gm8EqdIY1rRQgZA1z3pgCufZBZCgdNDRpHi6ZCR99FHAtsDnsrDRmjbiaZCTtuwBauU0AKegZDZD',
     verifyToken: process.env.VERIFY_TOKEN || 'kaiz_bot_verify_token',
     apiKey: 'b25bd41d-a96c-4df0-aab1-536acd594eb7',
     apiBase: 'https://kaiz-apis.gleeze.com/api'
